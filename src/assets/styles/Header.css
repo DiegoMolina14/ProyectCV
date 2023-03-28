@@ -1,0 +1,77 @@
+.header_Principal{
+    position: relative;
+    top: 30px;
+    height: 200px;
+    width: 80%;
+    background-color:   #08161A;
+    color: white;
+    
+}
+
+.header_Second{
+    background-color: #7277dc;
+    height: 184px;
+    width: 100%;
+    position: relative;
+    top:8%;
+    left: 6%;
+    text-align: center;
+}
+
+#name{
+    position: relative;
+    top: 40px;
+    left: -70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lastname{
+    font-size: 1.9rem;
+    color: #142831;
+}
+
+hr{
+    width: 500px;
+    margin-top: 50px;
+    margin-right: 230px;
+    height: 5px;
+    background-color: #1E1E1E;
+    border: none;
+}
+
+#profession{
+    position: relative;
+    left: -70px;
+    top: -10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #142831;
+}
+
+.header_Circle{
+    background-color:  #08161A;
+    height: 240px;
+    width: 240px;
+    border-radius: 60%;
+    position: absolute;
+    top: -19px;
+    left: 85%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle_Image{
+    height: 215px;
+    width: 215px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+#user_Image{
+    height: 240px;
+    width: 215px;   
+}
+
+

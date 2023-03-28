@@ -1,0 +1,14 @@
+.flex_Container{
+    margin-top: 170px;
+    height: 103vh;
+    width: 100%;
+    display: flex;
+}
+
+.circleDising{
+    background-color:  #08161A;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    left: 60%;
+}

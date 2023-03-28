@@ -1,0 +1,38 @@
+img{
+    height: 35px;
+    width: 37px;
+    margin-bottom: 50px;
+}
+
+#id_Facebook{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: 55%;
+    left: 63%;
+}
+
+.perfil_Network{
+    margin: 20px 0px 0px 20px;
+    background-color: #364A53;
+    height: 50px;
+    padding: 0px 0px 0px 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    border-radius: 20px;
+    width: 120px;
+}
+
+.container_Perfil_Network{
+    padding-left: 90px;
+    display: flex;
+}
+
+.container_Network{
+    margin-left: -170PX ;
+    margin-top: 88px;
+    display: flex;
+    flex-direction: column;
+}

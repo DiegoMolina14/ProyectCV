@@ -1,0 +1,97 @@
+.container_Father_Perfil{
+    height: 100%;
+    width: 90%;
+    background-color: #7772dc;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: center;
+}
+.container_Data_Perfil{
+    height: 30%;
+    width: 100%;
+}
+
+#perfil_P{
+    height: 27%;
+}
+
+#date_Perfil{
+    height: 20%;
+}
+
+#skill_Perfil{
+    height: 26%;
+}
+
+.p_DC{
+    margin: 20px 0px 0px 20px;
+    background-color: #364A53;
+    height: 50px;
+    padding: 0px 0px 0px 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    border-radius: 20px;
+
+}
+#id_Pefil{
+    width: 150px;
+}
+
+#id_Date{
+    width: 370px;
+}
+
+#id_Skill{
+    width: 250px;
+}
+
+#id_Language{
+    width: 250px;
+}
+
+span{
+    font-family: sans-serif;
+    font-weight: 750;
+    font-size: 1.6rem;
+}
+
+.language_name{
+    margin: 10px;
+    height: 100px;
+    width: 105px;
+}
+.container_Language{
+    display: flex;
+    flex-direction: row;
+}
+
+#description{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    margin: 20px 30px;
+}
+
+#date{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 40px 30px;
+}
+
+.container_skills{
+}
+
+.skills{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    margin: 5px 30px;
+}
+
+#javasc{
+    width: 80px;
+}

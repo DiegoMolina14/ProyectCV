@@ -1,0 +1,30 @@
+.container_Perfil{
+    height: 100%;
+    width: 500px;
+}
+
+#container_Perfil_A{
+    background-color: #08161A;
+    width: 64%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.circleDising{
+    position: absolute;
+    top: 74%;
+    left: 68%;
+    border-radius: 500px 0px 0px 0px;
+}
+
+.circleDising::after{
+    content: '';
+    display: block;
+    height: 300px;
+    width: 300px;
+    background-color: #7772dc;
+    position: absolute;
+    top: 22%;
+    left: 26%;
+    border-radius: 500px 0px 0px 0px;
+}
